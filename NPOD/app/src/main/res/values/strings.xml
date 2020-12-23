@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NPOD</string>
+    <string name="todo">TODO</string>
+    <string name="title">TITLE</string>
+    <string name="button">Button</string>
+    <string name="text">TEXT</string>
+</resources>
